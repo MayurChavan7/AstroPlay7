@@ -44,7 +44,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com//AstroPlay.git
+git clone https://github.com/MayurChavan7/AstroPlay7/tree/main
 
 Install dependencies
 cd server
