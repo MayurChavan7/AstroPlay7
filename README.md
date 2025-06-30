@@ -32,6 +32,32 @@
 
 ---
 
+## 📸 Screenshots
+
+### 1️⃣ Game Lobby
+
+![Game Lobby](assets/lobby.png)
+
+This page displays available games with their entry fees, current players online, and a “Join” button which deducts coins and shows a placeholder game screen.
+
+---
+
+### 2️⃣ Empty Wallet
+
+![Empty Wallet](assets/wallet_empty.png)
+
+This screen shows the wallet when the balance is zero, with quick recharge options and a red **Reset Wallet** button to clear the wallet.
+
+---
+
+### 3️⃣ Transaction History
+
+![Transaction History](assets/wallet_history.png)
+
+As coins are added or deducted, the transaction history records every event with timestamps for transparency and tracking.
+
+---
+
 ## ⚙️ Tech Stack
 
 - Frontend: React + Vite + TypeScript + Tailwind CSS
