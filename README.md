@@ -36,15 +36,37 @@
 
 - Frontend: React + Vite + TypeScript + Tailwind CSS
 - Backend: Node.js + Express (with JSON file storage as a mock DB)
-- Deployment:
-  - Frontend → Netlify
-  - Backend → Render / Railway (recommended)
 
 ---
 
 ## 💻 Local Development
 
-Clone the repo:
+Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AstroPlay.git
+git clone https://github.com//AstroPlay.git
+
+Install dependencies
+cd server
+npm install
+cd ../client
+npm install
+
+Start the backend
+cd server
+npm start
+Start the frontend
+cd ../client
+npm run dev
+
+🧩 Folder Structure
+AstroPlay/
+  client/   → React + Vite app
+  server/   → Node + Express API
+  db.json   → JSON mock database
+👨‍💻 Author
+Mayur Chavan
+Full Stack Developer
+
+📄 License
+This project is for demonstration and interview purposes only.
